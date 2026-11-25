@@ -1,0 +1,12 @@
+[
+  {
+    "id": "multi-monitor-tray-dimmer",
+    "name": "Multi-Monitor Tray Dimmer",
+    "platform": "Windows",
+    "version": "v1.0.0",
+    "description": "Лёгкая нативная утилита в трее (Rust, ~155 КБ) для раздельной регулировки яркости и затемнения каждого монитора по DDC/CI + оверлей и глобальным хоткеям.",
+    "repoUrl": "https://github.com/DiM-SoTiS/multi-monitor-tray-dimmer",
+    "releaseUrl": "https://github.com/DiM-SoTiS/multi-monitor-tray-dimmer/releases/latest",
+    "releasedAt": "2026-11-25"
+  }
+]
